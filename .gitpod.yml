@@ -1,1 +1,4 @@
 
+# .gitpod.yml
+tasks:
+  - command: echo "Empty Gitpod environment setup"
